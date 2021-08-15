@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrickingLibriry.Api", "TrickingLibriry.Api\TrickingLibriry.Api.csproj", "{34DBF382-185C-44F8-B50D-FDE1F40F310E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DBF382-185C-44F8-B50D-FDE1F40F310E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DBF382-185C-44F8-B50D-FDE1F40F310E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DBF382-185C-44F8-B50D-FDE1F40F310E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DBF382-185C-44F8-B50D-FDE1F40F310E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27DC2D79-FBAE-4F59-9F9F-E3D2BB01D534}
+	EndGlobalSection
+EndGlobal
